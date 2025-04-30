@@ -2,7 +2,7 @@
 
 This repository contains the code and scripts used for our paper published at NAACL 2025 [Paper Link](https://aclanthology.org/2025.findings-naacl.426.pdf). <br/>
 
-The code and scripts in this repository make use of the code in [HaRT-Wrapper Gitub repository](https://github.com/soni-n/HaRT-Wrapper/tree/main)(this repository has the code for training HaRT-concat and HaRT-ODPB variants of HaRT referred in our paper.
+The code and scripts in this repository make use of the code in [HaRT-Wrapper Gitub repository](https://github.com/soni-n/HaRT-Wrapper/tree/main) (The linked repository also has the code for training HaRT-concat and HaRT-ODPB variants of HaRT referred in our paper.
 
 # Install HaRT
 
