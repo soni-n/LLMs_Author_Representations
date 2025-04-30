@@ -1,4 +1,16 @@
-# LLMs for hidden state-based Author Representations
+# Evaluation of LLMs-based Hidden States as Author Representations for Psychological Human-Centered NLP Tasks
+
+This repository contains the code and scripts used for our paper published at NAACL 2025 [Paper Link](https://aclanthology.org/2025.findings-naacl.426.pdf). <br/>
+
+The code and scripts in this repository make use of the code in [HaRT-Wrapper Gitub repository](https://github.com/soni-n/HaRT-Wrapper/tree/main).
+
+# Install HaRT
+
+### Requires Python 3.x (tested with Python 3.8)
+```
+pip install hart-wrapper
+```
+
 
 # Generating embeddings
 Use <i>generate_embeddings.py</i> to fetch user, document, and word level representations from HaRT. It can also generate document-level representations from GPT2, BERT, and RoBERTa.
